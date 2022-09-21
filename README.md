@@ -1,4 +1,5 @@
-![example workflow](https://github.com/thecodedabbler/playground-react/actions/workflows/node.js.yml/badge.svg)
+[![Node.js CI Event Status](https://github.com/thecodedabbler/playground-react/actions/workflows/node.js.yml/badge.svg?event=status)](https://github.com/thecodedabbler/playground-react/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/thecodedabbler/playground-react/actions/workflows/node.js.yml/badge.svg)](https://github.com/thecodedabbler/playground-react/actions/workflows/node.js.yml)
 
 
 # Getting Started with Create React App
