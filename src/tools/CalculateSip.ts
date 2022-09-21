@@ -13,7 +13,7 @@ export function CalculateSip(sipParams:SipParams): SipGrowth[] {
         totalInvestedAmount += sipParams.monthlyAmount
         const growth:number = (totalInvestedAmount + totalGrowth) * monthlyReturnRate
         totalGrowth += growth
-        totalAmount = totalInvestedAmount + totalGrowth
+        totalAmount = totalInvestedAmount + totalGrowth + ""
 
         sipAccumulations.push({
             'month': i + 1,
