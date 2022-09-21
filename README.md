@@ -1,4 +1,4 @@
-![example workflow](https://github.com/thecodedabbler/playground-react/blob/main/.github/workflows/node.js.yml/badge.svg)
+![example workflow](https://github.com/thecodedabbler/playground-react/actions/workflows/node.js.yml/badge.svg)
 
 
 # Getting Started with Create React App
